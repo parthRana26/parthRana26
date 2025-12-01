@@ -68,13 +68,13 @@ Tapi Diploma Engineering College, Surat
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthRana26&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![GitHub Stats](https://github.com/parthRana26)
 
 ---
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/parth-rana-2605-engineer)  
+- [LinkedIn](https://www.linkedin.com/in/parth-rana-profile)  
 - [Twitter](https://twitter.com/parth_rana_26)  
 - [Email](mailto:parthsrana26@gmail.com)
 
