@@ -24,10 +24,8 @@ I am actively looking for opportunities in:
 
 ### **AI/ML Intern – Enthusia Softech Pvt. Ltd.**
 
-* Worked on AI/ML-based projects and real-world problem solving
-* Gained hands-on experience with **Machine Learning models and data processing**
+* Worked and learn on AI/ML-based projects and real-world problem solving
 * Explored **LLM-based applications and AI workflows**
-* Collaborated in a development environment and improved practical coding skills
 
 ---
 
