@@ -77,7 +77,7 @@ I am actively looking for opportunities in:
   * Vector storage (ChromaDB)
   * Retrieval + LLM chain
 * Added **conversation memory**
-* Built **FastAPI backend for AI applications**
+* Built **Stramlit for user UI interface in AI applications**
 
 ---
 
