@@ -32,7 +32,7 @@ I am actively looking for opportunities in:
 ## 👨‍💻 About Me
 
 * 🎓 Final-year **B.Tech IT** student at SCET, Surat
-* 💻 Strong in **Python, DSA, OOP, and Backend Development**
+* 💻 Strong in **Python, DSA, OOP, and AI Development**
 * 🤖 Building AI apps using **LangChain, RAG, LLMs, FastAPI**
 * 📊 Exploring **Quantitative Finance & Algorithmic Trading**
 * ⚡ Interested in **LLM pipelines, vector search, embeddings**
