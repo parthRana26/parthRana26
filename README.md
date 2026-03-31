@@ -1,90 +1,114 @@
 # Hi, I'm Parth Rana 👋
 
-Welcome to my GitHub! I’m a passionate **B.Tech IT** final-year student and a diploma graduate in **Information Technology**. I specialize in **Python**, **Data Structures & Algorithms**, and I’m actively exploring **Machine Learning** and **Quantitative Finance**.  
-I love solving problems, building projects, and continuously improving myself through practical learning.
+Welcome to my GitHub! I’m a passionate **B.Tech IT** final-year student with a strong focus on **AI Engineering**, **Machine Learning**, and **Backend Development**. I specialize in building intelligent systems using **LLMs, LangChain, and RAG pipelines**.
 
 ---
 
 ## 🔥 Profile Summary
 
-I am a dedicated and curious tech learner with strong programming and analytical skills. My core strengths lie in **Python**, **DSA**, and building projects in **Machine Learning** and **Software Development**.  
-Recently, I have developed a strong interest in the **Quantitative Finance (Quant/Trading)** domain, and I am learning how to apply programming, math, and data analysis to financial markets.
+I am a dedicated **AI Engineer (Fresher)** with strong foundations in **Python**, **Data Structures & Algorithms**, and **Software Development**. I enjoy building real-world AI applications using modern tools like **LangChain, FastAPI, and Vector Databases**.
 
-I’m actively looking for opportunities in **Software Engineering**, **Machine Learning**, **Data Analysis**, and **Quant Internships**.
+I have hands-on experience in:
+
+* Designing **RAG-based QnA systems**
+* Working with **LLMs (Groq / OpenAI APIs)**
+* Building **AI-powered backend systems using FastAPI**
+* Managing **embeddings and vector databases (ChromaDB)**
+
+I am actively looking for opportunities in:
+👉 **AI Engineering**
+
+---
+
+## 💼 Experience
+
+### **AI/ML Intern – Enthusia Softech Pvt. Ltd.**
+
+* Worked on AI/ML-based projects and real-world problem solving
+* Gained hands-on experience with **Machine Learning models and data processing**
+* Explored **LLM-based applications and AI workflows**
+* Collaborated in a development environment and improved practical coding skills
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year **B.Tech IT** student at SCET, Surat.  
-- 💻 Strong foundation in **Python**, **DSA**, **OOP**, and **Machine Learning**.  
-- 📊 Exploring **Quantitative Research**, **Algorithmic Trading**, and financial data analysis.  
-- 🧠 Interested in ML algorithms, model building, and data-driven systems.  
-- 🚀 Building projects that combine coding, analytics, and finance.  
-- 🤝 Open to collaborating on **open-source**, **ML**, **Python**, and **fin-tech** projects.  
-- 📫 Reach me at: **parthsrana26@gmail.com**
+* 🎓 Final-year **B.Tech IT** student at SCET, Surat
+* 💻 Strong in **Python, DSA, OOP, and Backend Development**
+* 🤖 Building AI apps using **LangChain, RAG, LLMs, FastAPI**
+* 📊 Exploring **Quantitative Finance & Algorithmic Trading**
+* ⚡ Interested in **LLM pipelines, vector search, embeddings**
+* 🚀 Focused on real-world **AI product development**
 
 ---
 
 ## 🚀 Skills
 
 ### **Programming Languages**
-- ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=ffffff)
-- ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=ffffff)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=ffffff)
-- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=ffffff)
 
-### **Tools & Technologies**
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff)
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=ffffff)
-- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff)
+* Python 🐍
+* C / C++
+* SQL
+
+### **AI / ML & LLM Stack**
+
+* LangChain
+* Retrieval-Augmented Generation (RAG)
+* Vector Databases (ChromaDB)
+* Embeddings (HuggingFace)
+* LLM APIs (Groq / OpenAI)
+* Prompt Engineering
+
+### **Backend & Tools**
+
+* FastAPI ⚡
+* Git & GitHub
+* VS Code
+* Jupyter Notebook
+
+---
+
+## 🧠 AI Engineering Experience
+
+* Built **QnA Chatbot using RAG + LangChain**
+* Implemented:
+
+  * Document loaders (PDF/Web)
+  * Text splitting
+  * Embedding pipelines
+  * Vector storage (ChromaDB)
+  * Retrieval + LLM chain
+* Added **conversation memory**
+* Built **FastAPI backend for AI applications**
 
 ---
 
 ## 🎯 Other Interests
 
-- **Machine Learning & Artificial Intelligence** 🤖  
-- **Web Development** 🌐  
-- **Competitive Programming & DSA** 💻  
-- **Quantitative Finance & Algorithmic Trading** 📈  
-- **OHLC Data Analysis, Indicators, and Backtesting** 📊  
-- **High-Frequency Trading Concepts (Beginner Level)** ⚡  
-- **Python for Finance (Pandas, NumPy, Matplotlib)** 🐍  
+* Machine Learning & AI 🤖
+* Quantitative Finance 📈
+* Algorithmic Trading
+* OHLC Data Analysis & Indicators
+* High-Frequency Trading (Beginner)
 
 ---
 
 ## 📚 Education
 
-**Bachelor of Technology (B.Tech) – Information Technology**  
-*2023 – Present*  
-Sarvajanik College of Engineering and Technology, Surat  
+**Bachelor of Technology (B.Tech) – Information Technology**
+Sarvajanik College of Engineering and Technology, Surat
 
-**Diploma in Information Technology**  
-*2020 – 2023*  
-Tapi Diploma Engineering College, Surat  
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github.com/parthRana26)
+**Diploma in Information Technology**
+Tapi Diploma Engineering College, Surat
 
 ---
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/parth-rana-profile)  
-- [Twitter](https://twitter.com/parth_rana_26)  
-- [Email](mailto:parthsrana26@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/parth-rana-profile
+* Twitter: https://twitter.com/parth_rana_26
+* Email: [parthsrana26@gmail.com](mailto:parthsrana26@gmail.com)
 
 ---
 
-## 📌 Other Information
-
-- Open to **internships**, **research roles**, and **freelance work**.  
-- Actively participating in **hackathons**, **coding contests**, and building new projects.  
-
----
-
-⭐ *Thanks for visiting my profile!* 🙌
+⭐ *Thanks for visiting my profile!*
